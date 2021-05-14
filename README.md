@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning anything i have interest in
 - 💞️ I’m looking to collaborate on matlab and python based projects
-- 📫 How to reach me ...
+- 📫 How to reach me yasirmahmud1999@gmail.com
 
 <!---
 ymnoob/ymnoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
